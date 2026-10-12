@@ -1,40 +1,33 @@
 # Hi, I'm Angga Pratama 👋
 
-### Informatics Engineering Student | Web Developer
+### Informatics Engineering Student · Web Developer
 
-I'm an Informatics Engineering student interested in web development, software development, and building practical digital solutions.
+I’m an Informatics Engineering student who enjoys building practical web applications and learning how software can solve real problems. I focus on developing useful features, creating clear user interfaces, and improving my skills through hands-on projects.
 
-I enjoy developing web applications, learning new technologies, and turning ideas into functional and user-friendly systems.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Informatics Engineering Student
-- 💻 Interested in Web Development and Software Development
-- 🌱 Currently improving my skills in PHP, MySQL, JavaScript, and web technologies
-- 🛠️ Enjoy building academic and personal projects
-- 📚 Continuously learning through projects and practical development
-- 🎯 Interested in internship and real-world software development opportunities
+- 🎓 Informatics Engineering student
+- 💻 Interested in web development and software engineering
+- 🌱 Currently strengthening my skills in PHP, MySQL, JavaScript, Python, and database design
+- 🧩 Learning through academic assignments and personal projects
+- 🎯 Open to internship opportunities and collaborative projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+**Languages**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-### Web & Database
+**Web & Database**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Tools
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -43,64 +36,66 @@ I enjoy developing web applications, learning new technologies, and turning idea
 
 ---
 
-## ⭐ Featured Project
+## 🚀 Featured Projects
 
-### 🛍️ Ronggolawe Batik
+### ServisKu — Vehicle Service Management & Booking System
 
-Ronggolawe Batik is a web-based e-commerce platform for local batik products from Tuban, developed using PHP and MySQL.
+A web-based vehicle service system designed to connect customers, workshops, and mechanics in one workflow.
 
-The project was developed as a practical web application project with separate customer and admin functionality.
+**Highlights**
+- Customer registration and login
+- Vehicle and service management
+- Service booking and booking verification
+- Mechanic assignment and service-status tracking
+- Payment workflow and role-based dashboards
 
-**Key Features:**
+**Built with:** PHP, MySQL, HTML, CSS, JavaScript
 
-- Customer and admin authentication
-- Product catalog
-- Product categories
-- Shopping cart
-- Wishlist
-- Checkout
-- Address management
-- Order management
-- Payment management
-- Payment proof upload
-- Product reviews
-- Admin dashboard
-- Product management
-- User management
-- Order management
-- Sales reports
-- Google Login
-- J&T shipping workflow
+🔗 [View repository](https://github.com/anggapratamadev/servisku)
 
-🔗 [View Ronggolawe Batik](https://github.com/anggapratamadev/ronggolawe-batik)
+### Ronggolawe Batik
+
+A web-based e-commerce application for local batik products from Tuban, with separate customer and admin functionality.
+
+**Highlights**
+- Product catalog and categories
+- Shopping cart, wishlist, and checkout
+- Address and order management
+- Payment management and proof upload
+- Product reviews and admin dashboard
+- Google Login and J&T shipping workflow
+
+**Built with:** PHP, MySQL, HTML, CSS, JavaScript
+
+🔗 [View repository](https://github.com/anggapratamadev/ronggolawe-batik)
+
+### LegalLens
+
+A legal-document project currently being developed, with a focus on making document handling and search more practical.
+
+**Technologies explored:** Python, FastAPI, PostgreSQL with pgvector, and a web frontend.
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced PHP & MySQL
-- JavaScript
-- Web Application Development
-- Database Design
-- Software Engineering
-- Git & GitHub
-- Web Security
-- Research and System Development
+- PHP and MySQL application development
+- JavaScript and responsive UI design
+- Database design and SQL
+- Authentication and web application security
+- Git, GitHub, and Docker
+- Software engineering and research methods
 
 ---
 
-## 🎯 Career Goals
+## 🎯 Goals
 
-I am continuously improving my technical and problem-solving skills through academic projects, personal projects, and practical development.
-
-My goal is to become a professional software/web developer and gain real-world experience through internship, collaborative projects, and professional opportunities.
+I aim to become a professional software developer by building useful applications, strengthening my problem-solving skills, and gaining experience through internships and collaborative projects.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 - GitHub: [@anggapratamadev](https://github.com/anggapratamadev)
 
----
-
-⭐ Feel free to explore my repositories and projects.
+Thanks for visiting my profile! Feel free to explore my repositories.
